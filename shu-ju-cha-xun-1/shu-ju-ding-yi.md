@@ -1,14 +1,14 @@
 # 数据定义
 
-![SQL&#x7684;&#x6838;&#x5FC3;&#x529F;&#x80FD;](.gitbook/assets/image.png)
+![SQL&#x7684;&#x6838;&#x5FC3;&#x529F;&#x80FD;](../.gitbook/assets/image.png)
 
 本身独立存在的表，SQL中一个关系就对应一个基本表；一个\(或多个\)基本表对应一个存储文件。 一个表可以带若干索引。
 
-![&#x6570;&#x636E;&#x5E93;&#x4E09;&#x7EA7;&#x6A21;&#x5F0F;&#x7ED3;&#x6784;](.gitbook/assets/image%20%286%29.png)
+![&#x6570;&#x636E;&#x5E93;&#x4E09;&#x7EA7;&#x6A21;&#x5F0F;&#x7ED3;&#x6784;](../.gitbook/assets/image%20%286%29.png)
 
 ## 数据定义
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 ## 模式
 
@@ -81,7 +81,7 @@ CREATE TABLE Student
 
 #### 数据类型
 
-![](.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ### 修改表
 
@@ -111,7 +111,7 @@ DROP TABLE <表名>［RESTRICT| CASCADE］；
 
 #### DROP TABLE时，SQL2011 与 3个RDBMS的处理策略比较 
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 ## 索引
 
@@ -202,10 +202,4 @@ DROP INDEX &lt;索引名&gt;；
 ## 视图
 
  从一个或几个基本表导出的表 数据库中只存放视图的定义而不存放视图对应的数据 视图是一个虚表 用户可以在视图上再定义视图
-
-### 
-
-
-
-
 
