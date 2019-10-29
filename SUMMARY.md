@@ -1,6 +1,6 @@
 # Table of contents
 
-* [数据定义](README.md)
+* [SQL数据库](README.md)
 * [第五章 数据库完整性](di-wu-zhang-shu-ju-ku-wan-zheng-xing.md)
 * [第六章 关系数据理论](di-liu-zhang-guan-xi-shu-ju-li-lun.md)
 
