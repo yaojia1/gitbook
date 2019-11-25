@@ -1,8 +1,6 @@
 # Table of contents
 
 * [SQL数据库](README.md)
-* [第五章 数据库完整性](di-wu-zhang-shu-ju-ku-wan-zheng-xing.md)
-* [第六章 关系数据理论](di-liu-zhang-guan-xi-shu-ju-li-lun.md)
 
 ## 第三章 关系数据库标准语言SQL <a id="shu-ju-cha-xun-1"></a>
 
@@ -17,4 +15,7 @@
 * [审计](di-si-zhang-shu-ju-ku-an-quan-xing/shen-ji.md)
 * [小结](di-si-zhang-shu-ju-ku-an-quan-xing/xiao-jie.md)
 * [视图](di-si-zhang-shu-ju-ku-an-quan-xing/shi-tu.md)
+* [第五章 数据库完整性](di-wu-zhang-shu-ju-ku-wan-zheng-xing.md)
+* [第六章 关系数据理论](di-liu-zhang-guan-xi-shu-ju-li-lun.md)
+* [数据库设计](shu-ju-ku-she-ji.md)
 

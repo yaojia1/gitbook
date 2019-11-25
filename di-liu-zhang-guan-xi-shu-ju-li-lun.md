@@ -182,7 +182,7 @@ F：       属性间数据的依赖关系集合
 
 各种范式之间存在联系：
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
 某一关系模式R为第n范式，可简记为R∈nNF。 
 
