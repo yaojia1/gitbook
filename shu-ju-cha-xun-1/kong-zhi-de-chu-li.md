@@ -57,7 +57,7 @@
 2. 空值与另一个值（包括另一个空值）的比较运算的结果为UNKNOWN。 
 3. 有UNKNOWN后，传统二值（TRUE，FALSE）逻辑就扩展成了三值逻辑
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ```text
 --找出选修1号课程的不及格的学生。

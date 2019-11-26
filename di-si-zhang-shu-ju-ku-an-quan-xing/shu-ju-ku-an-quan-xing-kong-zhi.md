@@ -62,7 +62,7 @@
 
  Ø一个或多个具体用户ØPUBLIC（全体用户） 
 
-![&#x5173;&#x7CFB;&#x6570;&#x636E;&#x5E93;&#x7CFB;&#x7EDF;&#x4E2D;&#x5B58;&#x53D6;&#x63A7;&#x5236;&#x5BF9;&#x8C61; ](../.gitbook/assets/image%20%283%29.png)
+![&#x5173;&#x7CFB;&#x6570;&#x636E;&#x5E93;&#x7CFB;&#x7EDF;&#x4E2D;&#x5B58;&#x53D6;&#x63A7;&#x5236;&#x5BF9;&#x8C61; ](../.gitbook/assets/image%20%284%29.png)
 
 ## 4.2.4 授权与回收
 
@@ -134,7 +134,7 @@ GRANT UPDATE(Sno), SELECT
 
 **CREATE USER不是SQL标准，各个系统的实现相差甚远**
 
-![&#x6743;&#x9650;&#x4E0E;&#x53EF;&#x6267;&#x884C;&#x7684;&#x64CD;&#x4F5C;&#x5BF9;&#x7167;&#x8868; ](../.gitbook/assets/image%20%2819%29.png)
+![&#x6743;&#x9650;&#x4E0E;&#x53EF;&#x6267;&#x884C;&#x7684;&#x64CD;&#x4F5C;&#x5BF9;&#x7167;&#x8868; ](../.gitbook/assets/image%20%2820%29.png)
 
 ## 4.2.5 数据库角色
 
