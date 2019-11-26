@@ -134,7 +134,7 @@ GRANT UPDATE(Sno), SELECT
 
 **CREATE USER不是SQL标准，各个系统的实现相差甚远**
 
-![&#x6743;&#x9650;&#x4E0E;&#x53EF;&#x6267;&#x884C;&#x7684;&#x64CD;&#x4F5C;&#x5BF9;&#x7167;&#x8868; ](../.gitbook/assets/image%20%2820%29.png)
+![&#x6743;&#x9650;&#x4E0E;&#x53EF;&#x6267;&#x884C;&#x7684;&#x64CD;&#x4F5C;&#x5BF9;&#x7167;&#x8868; ](../.gitbook/assets/image%20%2822%29.png)
 
 ## 4.2.5 数据库角色
 

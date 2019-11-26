@@ -18,4 +18,5 @@
 * [第五章 数据库完整性](di-wu-zhang-shu-ju-ku-wan-zheng-xing.md)
 * [第六章 关系数据理论](di-liu-zhang-guan-xi-shu-ju-li-lun.md)
 * [第七章 数据库设计](shu-ju-ku-she-ji.md)
+* [第八章  Transact-SQL程序设计](di-ba-zhang-transactsql-cheng-xu-she-ji.md)
 

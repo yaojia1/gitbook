@@ -120,7 +120,7 @@ SELECT DISTINCT Sno
 
 #### 查询满足条件的元组
 
-![&#x5E38;&#x7528;&#x7684;&#x67E5;&#x8BE2;&#x6761;&#x4EF6;](../.gitbook/assets/image%20%2814%29.png)
+![&#x5E38;&#x7528;&#x7684;&#x67E5;&#x8BE2;&#x6761;&#x4EF6;](../.gitbook/assets/image%20%2816%29.png)
 
 ```sql
 /*比较大小*/
@@ -756,7 +756,7 @@ SELECT [ALL|DISTINCT]
 
 ### 聚集函数的一般格式
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ### WHERE子句的条件表达式的可选格式
 

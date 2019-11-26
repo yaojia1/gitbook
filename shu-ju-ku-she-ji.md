@@ -35,7 +35,7 @@
 
 ![](.gitbook/assets/image%20%283%29.png)
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 ### 7.1.4  数据库设计过程中的各级模式
 
@@ -92,7 +92,7 @@
 
 1.抽象
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2825%29.png)
 
 2．分解处理功能和数据
 
@@ -120,7 +120,7 @@
 
 ### 7.3.1  概念结构
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 概念模型的工具：E-R图
 
