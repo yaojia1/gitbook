@@ -120,7 +120,7 @@ SELECT DISTINCT Sno
 
 #### 查询满足条件的元组
 
-![&#x5E38;&#x7528;&#x7684;&#x67E5;&#x8BE2;&#x6761;&#x4EF6;](../.gitbook/assets/image%20%2811%29.png)
+![&#x5E38;&#x7528;&#x7684;&#x67E5;&#x8BE2;&#x6761;&#x4EF6;](../.gitbook/assets/image%20%2813%29.png)
 
 ```sql
 /*比较大小*/
@@ -436,7 +436,7 @@ SELECT Student.Sno，Sname，Ssex，Sage，Sdept，Cno，Grade
 
 查询结果：
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ### 4.多表连接
 
@@ -619,7 +619,7 @@ SELECT Sname		                  /*外层查询/父查询*/
 
 #### 用聚簇函数实现
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ```text
 SELECT Sname，Sage
@@ -756,7 +756,7 @@ SELECT [ALL|DISTINCT]
 
 ### 聚集函数的一般格式
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ### WHERE子句的条件表达式的可选格式
 
