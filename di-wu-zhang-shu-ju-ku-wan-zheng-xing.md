@@ -159,8 +159,8 @@ CREATE TABLE时定义
 
 #### 列值非空（NOT NULL） 
 
-```text
-［例5.5］  在定义SC表时，说明Sno、Cno、Grade属性不允许取空值。
+```sql
+--例5.5］  在定义SC表时，说明Sno、Cno、Grade属性不允许取空值。
     CREATE TABLE SC
       （Sno  CHAR(9)  NOT NULL，	
           Cno  CHAR(4)  NOT NULL，	
