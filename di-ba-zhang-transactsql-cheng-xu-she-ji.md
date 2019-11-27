@@ -84,6 +84,17 @@
 
 3、date      date是SQL Server 2008新引进的数据类型。它表示一个日子，不包含时间部分，可以表示的日期范围从公元元年1月1日到9999年12月31日。只需要3个字节的存储空间。
 
+
+
+| 数据类型 | “格式” | 范围 | 精确度 | 存储大小（字节） | 用户定义的秒的小数部分精度 | 时区偏移量 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [time](https://docs.microsoft.com/zh-cn/sql/t-sql/data-types/time-transact-sql?view=sql-server-ver15) | hh:mm:ss\[.nnnnnnn\] | 00:00:00.0000000 到 23:59:59.9999999 | 100 纳秒 | 3 到 5 | 是 | 否 |
+| [date](https://docs.microsoft.com/zh-cn/sql/t-sql/data-types/date-transact-sql?view=sql-server-ver15) | YYYY-MM-DD | 0001-01-01 到 31.12.99 | 1 天 | 3 | 否 | 否 |
+| [smalldatetime](https://docs.microsoft.com/zh-cn/sql/t-sql/data-types/smalldatetime-transact-sql?view=sql-server-ver15) | YYYY-MM-DD hh:mm:ss | 1900-01-01 到 2079-06-06 | 1 分钟 | 4 | 否 | 否 |
+| [datetime](https://docs.microsoft.com/zh-cn/sql/t-sql/data-types/datetime-transact-sql?view=sql-server-ver15) | YYYY-MM-DD hh:mm:ss\[.nnn\] | 1753-01-01 到 9999-12-31 | 0.00333 秒 | 8 | 否 | 否 |
+| [datetime2](https://docs.microsoft.com/zh-cn/sql/t-sql/data-types/datetime2-transact-sql?view=sql-server-ver15) | YYYY-MM-DD hh:mm:ss\[.nnnnnnn\] | 0001-01-01 00:00:00.0000000 到 9999-12-31 23:59:59.9999999 | 100 纳秒 | 6 到 8 | 是 | 否 |
+| [datetimeoffset](https://docs.microsoft.com/zh-cn/sql/t-sql/data-types/datetimeoffset-transact-sql?view=sql-server-ver15) | YYYY-MM-DD hh:mm:ss\[.nnnnnnn\] \[+\|-\]hh:mm | 0001-01-01 00:00:00.0000000 到 9999-12-31 23:59:59.9999999（以 UTC 时间表示） | 100 纳秒 | 8 到 10 | 是 | 是 |
+
 #### 日期的输入格式很多大致可分为三类： 
 
 1、英文+数字格式 
