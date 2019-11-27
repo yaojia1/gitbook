@@ -184,7 +184,7 @@ smallmoney数据类型类似于money 类型，但其存储的货币值范围比m
 
 全局变量由系统定义，通常用来跟踪服务器范围和特定会话期间的信息，不能被用户显式地定义和赋值，但是我们可以通过访问全局变量来了解系统目前的一些状态信息 ,全局变量以两个@符号开头 
 
-![SQL Server&#x4E2D;&#x8F83;&#x5E38;&#x7528;&#x7684;&#x5168;&#x5C40;&#x53D8;&#x91CF;](.gitbook/assets/image%20%2826%29.png)
+![SQL Server&#x4E2D;&#x8F83;&#x5E38;&#x7528;&#x7684;&#x5168;&#x5C40;&#x53D8;&#x91CF;](.gitbook/assets/image%20%2831%29.png)
 
 2.声明局部变量
 
@@ -213,7 +213,7 @@ Microsoft SQL Server 2008提供了7中类型的运算符，分别是算术运算
 
 ### 8.2.4 运算符的优先级
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 ## 8.3 常用函数
 

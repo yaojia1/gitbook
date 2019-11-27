@@ -92,7 +92,7 @@
 
 1.抽象
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 2．分解处理功能和数据
 
@@ -120,7 +120,7 @@
 
 ### 7.3.1  概念结构
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 概念模型的工具：E-R图
 

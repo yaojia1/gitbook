@@ -8,7 +8,7 @@
 
 ## 数据定义
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 ## 模式
 
@@ -81,7 +81,7 @@ CREATE TABLE Student
 
 #### 数据类型
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 ### 修改表
 
@@ -111,7 +111,7 @@ DROP TABLE <表名>［RESTRICT| CASCADE］；
 
 #### DROP TABLE时，SQL2011 与 3个RDBMS的处理策略比较 
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 ## 索引
 
