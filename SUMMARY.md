@@ -21,4 +21,5 @@
 * [第七章 数据库设计](shu-ju-ku-she-ji.md)
 * [第八章  Transact-SQL程序设计](di-ba-zhang-transactsql-cheng-xu-she-ji.md)
 * [第九章  存储过程](di-jiu-zhang-cun-chu-guo-cheng.md)
+* [第十章 触发器](di-shi-zhang-chu-fa-qi.md)
 
