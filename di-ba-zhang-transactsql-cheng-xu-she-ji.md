@@ -400,7 +400,7 @@ Begin
 function_body 
 Return
 End
--例
+--例
 CREATE FUNCTION get_Company (@InCompanyID nchar(5))
 RETURNS @returnFind TABLE (CompanyID nchar(5) primary key,
    		CompanyName nvarchar(50) NOT NULL,
